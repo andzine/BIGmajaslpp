@@ -13,3 +13,45 @@ body{
     font-weight: bold;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+.submit{
+    display: block;
+  width: 60%;
+  border: solid;
+  color: pink;
+  
+ 
+  padding: 14px 14px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  
+    
+}
+.Epasts{
+    display: block;
+  width: 60%;
+  border: solid;
+  padding: 14px 14px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: left;
+    
+}
+.Parole{
+    display: block;
+  width: 60%;
+  border: solid;
+  padding: 14px 14px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: left;
+    
+}
+.bgbilde{
+  
+  background-position: right bottom, left top;
+  background-repeat: no-repeat, repeat;
+  padding: 10px;
+  width: 200vw;
+  background-color: blue;
+}
